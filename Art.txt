@@ -1,0 +1,100 @@
+Salvador Dali,Swans Reflecting Elephants,Surrealism
+Claude Monet,Beach in Pourville,Impressionist
+Vincent van Gogh,Wheatfields under Thundercloud,post-impressionist
+Gustav Klimt,Portrait of Adele Bloch-Bauer,Symbolists
+Salvador Dali,The Persistence of Memory,Surrealism
+Leonardo Da Vinci,Mona Lisa,Renaissance
+Vincent van Gogh,Starry Night,Post-Impressionist
+Edvard Munch,The Scream,Expressionism
+Rembrandt,The Night Watch,Baroque
+Gustav Klimt,The Kiss,Art Nouveau
+Jan van Eyck,The Arnolfini Portrait,Renaissance
+Johannes Vermeer,The Girl With A Pearl Earring,Baroque
+Claude Monet,Impression Sunrise,Impressionism
+Diego Velazquez,Las Meninas,Baroque
+Michelangelo,The Creation Of Adam,Renaissance
+Pierre-Auguste Renoir,Luncheon Of The Boating Party,Impressionism
+Jean Auguste Dominique Ingres,The Grand Odalisque,Neoclassicism
+Jean-Honore Fragonard,The Happy Accidents Of The Swing,Rococo
+Eugene Delacroix,The Liberty Leading The People,Romanticism
+Sandro Botticelli,The Birth Of Venus,Renaissance
+Jacques-Louis David,Napoleon Crossing The Alps,Neoclassicism
+Caravaggio,Musicians,Baroque
+Grant Wood,American Gothic,Regionalism
+Georges Seurat,Sunday Afternoon On The Island Of La Grande Jatte,Pointillism
+Henri Rousseau,The Sleeping Gypsy,Naive art
+Raphael,The Triumph Of Galatea,Renaissance
+Jean-Francois Millet,The Gleaners,Realism
+Sandro Botticelli,Primavera,Renaissance
+Francisco Goya,The Third Of May 1808,Romanticism
+Anthony van Dyck,Charles I In Three Positions,Renaissance
+Caspar David Friedrich,The Wanderer Above The Sea Of Fog,Romanticism
+Edouard Manet,Olympia,Realism
+Pieter Bruegel the Elder,The Tower Of Babel,Renaissance
+El Greco,View Of Toledo,Mannerism
+Edgar Degas,A Cotton Office In New Orleans,Impressionism
+Titian,Bacchus And Ariadne,Renaissance
+Gustave Courbet,The Sleepers,Realism
+Thomas Eakins,The Gross Clinic,Realism
+Ivan Aivazovsky,The Ninth Wave,Romanticism
+Leonardo Da Vinci,The Last Supper,Renaissance
+Paolo Uccello,St. George And The Dragon,Renaissance
+Thomas Gainsborough,Mr And Mrs Robert Andrews,Rococo
+Jean-Leon Gerome,Pollice Verso,Academic
+Antoine Watteau,Pilgrimage To Cythera,Rococo
+Paul Cezanne,Large Bathers,Post-Impressionism
+Johannes Vermeer,The Astronomer,Baroque
+William-Adolphe Bouguereau,Wave,Realism
+Peter Paul Rubens,The Fall Of The Damned,Baroque
+Edouard Manet,A Bar At The Folies Bergere,Impressionism
+Rembrandt,The Storm On The Sea Of Galilee,Baroque
+Frans Hals,The Laughing Cavalier,Baroque
+Gustave Caillebotte,Paris Street In Rainy Weather,Impressionism
+Franz Marc,Foxes,Cubism
+Leonardo Da Vinci,The Lady With The Ermine,Renaissance
+John Singleton Copley,Watson And The Shark,Neoclassicism
+Joshua Reynolds,The Ladies Waldegrave,Rococo
+James Abbott McNeill Whistler,Arrangement In Grey And Black,Realism
+Pierre-Auguste Renoir,Dance At The Moulin De La Galette,Impressionism
+Winslow Homer,Breezing Up,Realism
+Katsushika Hokusai,The Great Wave Off Kanagawa,Ukiyo-e
+Amedeo Modigliani,Large Seated Nude,Expressionism
+George Bellows,Stag Night At Sharkeys,American Realism
+Vincent Van Gogh,The Night Cafe,Post-Impressionism
+Childe Hassam,The Avenue In The Rain,Impressionism
+Leonardo Da Vinci,Annunciation,Renaissance
+Hans Holbein the Younger,The Ambassadors,Renaissance
+Frederic Leighton,Flaming June,Academic
+Artemisia Gentileschi,Susanna And The Elders,Baroque
+Wassily Kandinsky,Composition VIII,Abstract
+Jacques-Louis David,The Oath Of Horatii,Neoclassicism
+Cassius Marcellus Coolidge,A Friend In Need,Realism
+William-Adolphe Bouguereau,Dante And Virgil In Hell,Neoclassicism
+Francisco Goya,Saturn Devouring His Son,Romanticism
+Albrecht Altdorfer,Battle Of Issus,Renaissance
+Vincent Van Gogh,The Potato Eaters,Post-Impressionism
+Louis-Jean-Francois Lagrenee,Mars And Venus Allegory Of Peace,Rococo
+Paul Klee,Red Balloon,Cubism
+John William Waterhouse,The Lady Of Shalott,Pre-Raphaelite Brotherhood
+Gilbert Stuart,Portrait Of A Gentleman Skating,Neoclassicism
+John Constable,The Hay Wain,Romanticism
+Mary Cassatt,The Boat Trip,Impressionism
+Titian,Sleeping Venus,Renaissance
+Gentile da Fabriano,Adoration Of The Magi,International Gothic
+Raphael,Portrait Of A Young Man,Renaissance
+Claude Monet,The Water Lily Pond,Impressionist
+Pablo Picasso,Girl Before a Mirror,Surrealism
+Pierre-Auguste Renoir,Two Sisters,Impressionist
+Salvador Dali,Galatea of The Spheres,Surrealism
+Claude Monet,Poppy fields near Argenteuil,Impressionist
+Pablo Picasso,La Lecture,Surrealism
+Pierre-Auguste Renoir,Dance at Bougival,Impressionist
+Vincent van Gogh,Cafe Terrace at Night,Post-Impressionist
+Salvador Dali,Metamorphosis of Narcissus,Surrealism
+Claude Monet,Boating,Impressionist
+Gustav Klimt,Judith and the Head of Holofernes,Symbolists
+Pablo Picasso,The Old Guitarist,Surrealism
+Pierre-Auguste Renoir,La Loge,Impressionist
+Camille Pissarro,Boulevard Montmartre Spring,Impressionism
+Paolo Veronese,The Wedding At Cana,Renaissance
+Rembrandt,The Anatomy Lesson Of Dr. Nicolaes Tulp,Baroque
